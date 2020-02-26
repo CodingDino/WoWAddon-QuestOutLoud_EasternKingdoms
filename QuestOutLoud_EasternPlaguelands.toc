@@ -1,0 +1,9 @@
+## Interface: 80000
+## Title: QuestOutLoud - Eastern Plaguelands
+## Notes: QuestOutLoud module for Eastern Plaguelands Quests
+## Author: Jiyambi
+## Version: 8.0.0
+## X-License: MIT
+## Dependencies: QuestOutLoud
+
+EasternPlaguelands.lua
