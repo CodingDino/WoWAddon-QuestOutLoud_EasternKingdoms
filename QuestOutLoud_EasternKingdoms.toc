@@ -1,0 +1,11 @@
+## Interface: 80000
+## Title: QuestOutLoud - Eastern Plaguelands
+## Notes: QuestOutLoud module for Eastern Kingdoms Quests
+## Author: Jiyambi
+## Version: 8.0.0
+## X-License: MIT
+## Dependencies: QuestOutLoud
+
+QuestOutLoud_EasternPlaguelands.lua
+QuestOutLoud_ElwynnForest.lua
+QuestOutLoud_Badlands.lua
